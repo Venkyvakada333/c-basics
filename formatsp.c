@@ -13,5 +13,5 @@ void main( )
    sum=num1+num2+num3;
 
    //o/p
-   printf("%d",sum);
+   printf("sum of %d,%d,%d is %d",num1,num2,num3,sum);
 }
